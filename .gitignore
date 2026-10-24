@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+*.egg-info/
+build/
+dist/
+.env
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# VS Code
+.vscode/*
+!.vscode/settings.json
